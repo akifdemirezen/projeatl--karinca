@@ -1,0 +1,3 @@
+Program zaten açýklayýcý bir þekildi yazýlmýþtýr
+Framede gereken yerleri uygun þekilde doldurunuz
+Not : Binebilecek kiþi sayýsý en fazla 4 se  gruptaki kiþi sayýlarýný girerken 4 ten fazla girmeyiniz
